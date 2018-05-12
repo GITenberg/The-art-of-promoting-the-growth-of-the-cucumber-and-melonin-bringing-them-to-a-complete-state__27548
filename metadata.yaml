@@ -1,0 +1,29 @@
+_repo: The-art-of-promoting-the-growth-of-the-cucumber-and-melonin-bringing-them-to-a-complete-state__27548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watkins, Thomas
+    gutenberg_agent_id: '32760'
+    url: http://www.gutenberg.org/2009/agents/32760
+description: ''
+gutenberg_issued: '2008-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cucumbers'
+- !lcsh 'Melons'
+- !lcc 'SB'
+title: 'The art of promoting the growth of the cucumber and melon
+
+  in a series of directions for the best means to be adopted
+
+  in bringing them to a complete state of perfection'
+url: http://www.gutenberg.org/ebooks/27548
